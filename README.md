@@ -4,7 +4,7 @@
 
 **`Digital Craftsman & Educator`**
 
-* 🌍 I'm based in Poland 🇵🇱
+* 🌍 I'm living in Di An, Binh Duong
 * ✉️ You can contact me at [nguyenanhvu200101@gmail.com]
 * ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ahn.vu_/)
 * 🧠 Languages I learn or master: Java, Kotlin, JavaScript
