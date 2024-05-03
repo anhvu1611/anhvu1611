@@ -32,7 +32,7 @@
 ---
 
 <details>
-    <summary><b>🛠️ Languages and Frameworks</b></summary>
+    <summary><b>🛠️ Languages, Frameworks and Tools</b></summary>
     <br />
     <p align="left">
         <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="36" height="36" alt="Java" /></a>
@@ -45,6 +45,7 @@
         <a href="https://learn.microsoft.com/vi-vn/sql/ssms/sql-server-management-studio-web-browser?view=sql-server-2017" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="36" height="36" alt="SQL" /></a>
         <a href="https://neo4j.com/fr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" width="36" height="36" alt="Neo4j" /></a>
         <a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB" /></a>
+        <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="36" height="36" alt="MariaDB" /></a>
     </p>
 </details>
 
