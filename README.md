@@ -32,7 +32,7 @@
 ---
 
 <details>
-    <b>🛠️ Languages and Frameworks</b>
+    <summary><b>🛠️ Languages and Frameworks</b></summary>
     <br />
     <p align="left">
         <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="36" height="36" alt="Java" /></a>
