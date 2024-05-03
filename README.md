@@ -32,19 +32,19 @@
 ---
 
 <details>
-    <summary><b>🛠️ Languages and Tools</b></summary>
+    <b>🛠️ Languages and Frameworks</b>
     <br />
     <p align="left">
         <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="36" height="36" alt="Java" /></a>
-      <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="36" height="36" alt="Kotlin" /></a>
+        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="36" height="36" alt="Kotlin" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="ReactNative" /></a>
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-      <a href="https://learn.microsoft.com/vi-vn/sql/ssms/sql-server-management-studio-web-browser?view=sql-server-2017" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="36" height="36" alt="SQL" /></a>
-      <a href="https://neo4j.com/fr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" width="36" height="36" alt="Neo4j" /></a>
-   <a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB" /></a>
+        <a href="https://learn.microsoft.com/vi-vn/sql/ssms/sql-server-management-studio-web-browser?view=sql-server-2017" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="36" height="36" alt="SQL" /></a>
+        <a href="https://neo4j.com/fr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" width="36" height="36" alt="Neo4j" /></a>
+        <a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB" /></a>
     </p>
 </details>
 
