@@ -1,67 +1,90 @@
-# 🚀 anhvu1611
+# 🚀 anhvu1611  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
+**`Fullstack Developer | Digital Craftsman`**  
 
-**`Digital Craftsman & Educator`**
+💡 "Simplicity in code, elegance in design."  
 
-* 🌍 I'm living in Di An, Binh Duong
-* ✉️ You can contact me at [nguyenanhvu200101@gmail.com] or [my Linkedin](https://www.linkedin.com/in/anh-vu-122a7b320/)
-* ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ahn.vu_/)
-* 🧠 Languages I learn or master: Java, Kotlin, JavaScript
-* ⚡ Football
-
-### 🔗 Connect With Me
-<p align="left">
-    <a href="https://www.linkedin.com/in/anh-vu-122a7b320/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="32" height="32" /> </picture> </a>
-    <a href="https://www.github.com/anhvu1611" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-    <a href="https://www.instagram.com/ahn.vu_/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>
-    <a href="https://www.facebook.com/sanbong.quytu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-</p>
-
-<p>
-  <a href="https://github.com/anhvu1611?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/anhvu1611?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/anhvu1611?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/anhvu1611?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
-
-### ✨ About me
-
+- 🌍 Based in Di An, Binh Duong  
+- ✉️ [nguyenanhvu200101@gmail.com](mailto:nguyenanhvu200101@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anh-vu-122a7b320/)  
+- ⚡ Passionate about software architecture, scalable systems & clean code  
 
 ---
 
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anh-vu-122a7b320/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhvu1611)
+[![Instagram](https://img.shields.io/badge/Instagram-%40ahn.vu__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahn.vu_/)
+
 ---
 
-## 🛠️ Languages, Frameworks and Tools
-<br />
-<p align="left">
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="36" height="36" alt="VueJS" /></a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="ReactNative" /></a>
-    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="36" height="50" alt="NextJS" /></a>
-    <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" width="36" height="50" alt="Nuxt" /></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="36" height="36" alt="Springboot" /></a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="36" height="36" alt="Laravel" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="36" height="36" alt="Java" /></a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="Java" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="36" height="36" alt="SQL" /></a>
-    <a href="https://neo4j.com/fr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" width="36" height="36" alt="Neo4j" /></a>
-    <a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB" /></a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="36" height="36" alt="MariaDB" /></a>
-</p>
+## 🚀 Featured Projects  
 
-<br />
+### 🌟 Timesheets - Time Attendance Management System  
+- **Description**: A comprehensive time attendance management system for enterprises.  
+  - Attendance tracking, shift management, leave requests, and overtime management.  
+  - Request approval workflow for attendance and break time adjustments.  
+  - Automated email notifications.  
+  - Summary reports and data export.  
+- **Tech stack**: Vue, Pinia, Laravel, Docker.  
+- **Link**: (Private Repository)  
 
+---
 
-## 📈 My GitHub Stats
-<br />
-<a href="https://github.com/anhvu1611"><img src="https://github-readme-stats.vercel.app/api?username=anhvu1611&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="anhvu1611's GitHub stats" /></a>
-<br />    
-<a href="https://github.com/anhvu1611"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anhvu1611&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of anhvu1611 GitHub stats" /></a>
-<br />
+### 🔹 Eneone – Electricity Contract Management System  
+- **Description**: A system for managing electricity contracts, including an admin dashboard and an online registration portal for residents.  
+- **Tech stack**: Bootstrap, jQuery, Laravel, Docker.  
+- **Link**: https://eneonedenki.net/  
 
+---
+
+### 🔹 Hung Ngan Community Platform  
+- **Description**: A community platform for Hung Ngan Apartment residents, providing services such as dining, repairs, real estate, tutoring, and an AI chatbot.  
+- **Tech stack**: React, Redux Toolkit, Spring Boot, Docker Compose.  
+- **Link**: (Private Repository)  
+
+---
+
+### 🔹 Order Shipping Management System  
+- **Description**: An order and shipping management system built with a microservices architecture, featuring API Gateway, Redis caching, retry mechanism, and a rate limiter.  
+- **Tech stack**: Spring Boot, MariaDB, Redis, Docker Compose, Jenkins.  
+- **Link**: (Backend Only – Private Repository)  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔹 Frontend  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🔹 Backend  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🔹 Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### 🔹 Cloud & DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔹 Languages  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+<a href="https://github.com/anhvu1611">
+  <img src="https://github-readme-stats.vercel.app/api?username=anhvu1611&show_icons=true&hide=issues&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" height="160"/>
+</a>
+<a href="https://github.com/anhvu1611">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhvu1611&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="160"/>
+</a>
