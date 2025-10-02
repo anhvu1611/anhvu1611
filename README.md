@@ -5,13 +5,14 @@
 **`Digital Craftsman & Educator`**
 
 * 🌍 I'm living in Di An, Binh Duong
-* ✉️ You can contact me at [nguyenanhvu200101@gmail.com]
+* ✉️ You can contact me at [nguyenanhvu200101@gmail.com] or [my Linkedin](https://www.linkedin.com/in/anh-vu-122a7b320/)
 * ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ahn.vu_/)
 * 🧠 Languages I learn or master: Java, Kotlin, JavaScript
 * ⚡ Football
 
 ### 🔗 Connect With Me
 <p align="left">
+    <a href="https://www.linkedin.com/in/anh-vu-122a7b320/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.github.com/anhvu1611" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.instagram.com/ahn.vu_/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>
     <a href="https://www.facebook.com/sanbong.quytu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
@@ -31,31 +32,36 @@
 
 ---
 
-<details>
-    <summary><b>🛠️ Languages, Frameworks and Tools</b></summary>
-    <br />
-    <p align="left">
-        <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="36" height="36" alt="Java" /></a>
-        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" width="36" height="36" alt="Kotlin" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="ReactNative" /></a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-        <a href="https://learn.microsoft.com/vi-vn/sql/ssms/sql-server-management-studio-web-browser?view=sql-server-2017" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="36" height="36" alt="SQL" /></a>
-        <a href="https://neo4j.com/fr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" width="36" height="36" alt="Neo4j" /></a>
-        <a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB" /></a>
-        <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="36" height="36" alt="MariaDB" /></a>
-    </p>
-</details>
+## 🛠️ Languages, Frameworks and Tools
+<br />
+<p align="left">
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="36" height="36" alt="VueJS" /></a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="36" height="36" alt="React" /></a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="ReactNative" /></a>
+    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg" width="36" height="50" alt="NextJS" /></a>
+    <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" width="36" height="50" alt="Nuxt" /></a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="36" height="36" alt="Springboot" /></a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="36" height="36" alt="Laravel" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="36" height="36" alt="Java" /></a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="36" height="36" alt="Java" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+    <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" width="36" height="36" alt="MySQL" /></a>
+    <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="36" height="36" alt="SQL" /></a>
+    <a href="https://neo4j.com/fr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neo4j/neo4j-original.svg" width="36" height="36" alt="Neo4j" /></a>
+    <a href="https://www.mongodb.com/fr-fr" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB" /></a>
+    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="36" height="36" alt="MariaDB" /></a>
+</p>
 
 <br />
 
-<details>
-    <summary><b>📈 My GitHub Stats</b></summary>
-    <br />
-    <a href="https://github.com/anhvu1611"><img src="https://github-readme-stats.vercel.app/api?username=anhvu1611&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="anhvu1611's GitHub stats" /></a>
-    <br />    
-    <a href="https://github.com/anhvu1611"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anhvu1611&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of anhvu1611 GitHub stats" /></a>
-    <br />
-</details>
+
+## 📈 My GitHub Stats
+<br />
+<a href="https://github.com/anhvu1611"><img src="https://github-readme-stats.vercel.app/api?username=anhvu1611&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="anhvu1611's GitHub stats" /></a>
+<br />    
+<a href="https://github.com/anhvu1611"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anhvu1611&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of anhvu1611 GitHub stats" /></a>
+<br />
+
