@@ -4,7 +4,7 @@
 
 💡 "Simplicity in code, elegance in design."  
 
-- 🌍 Based in Di An, Binh Duong  
+- 🌍 Ho Chi Minh city
 - ✉️ [nguyenanhvu200101@gmail.com](mailto:nguyenanhvu200101@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anh-vu-122a7b320/)  
 - ⚡ Passionate about software architecture, scalable systems & clean code  
 
